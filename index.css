@@ -1,0 +1,97 @@
+body {
+	font-size: 12px;
+	font-family: 'Roboto', sans-serif;
+}
+
+.el {
+	float: right;
+	padding: 10px;
+	margin: 5px;
+}
+
+.kar {
+	float: right;
+	padding: 10px;
+	margin: 5px;
+}
+
+.kv {
+	background-color: #4484F3;
+	border-radius: 2px;
+	color: white;
+	line-height: 10px;
+}
+
+.bigimg {
+	text-align: center;
+	padding-top: 190px;
+}
+
+form {
+	text-align: center;
+	margin-top: 30px;
+
+}
+
+input {
+	width: 500px;
+	font-size: 13px;
+	padding: 6px 0 4px 10px;
+	border: 1px solid ##BFC3C7;
+	background: #F6F6f6;
+	border-radius: 8px;
+
+
+}
+
+.lupa {
+	margin-right: 5px;
+	margin-top: 0px;
+}
+
+.klava {
+	margin-left: 5px;
+}
+
+input:invalid {
+	box-shadow:none;
+}
+
+.loxartem {
+	border-top: 1px solid #E4E4E4;
+	border-bottom: 1px solid #E4E4E4;
+	font-size: 14px;
+	padding: 10px;
+	background-color: #F2F2F2; 
+	color: #5f6368;
+	margin-top: %; 
+}
+
+.penis {
+	border-top: 1px solid #E4E4E4;
+	border-bottom: 1px solid #E4E4E4;
+	font-size: 14px;
+	padding: 10px;
+	background-color: #F2F2F2;
+	width: 73%;
+	color: #5f6368;
+	margin-top: %;
+	float: left;
+	
+}
+
+.zhopa {
+	border-top: 1px solid #E4E4E4;
+	border-bottom: 1px solid #E4E4E4;
+	font-size: 14px;
+	padding: 10px;
+	background-color: #F2F2F2;
+	color: #5f6368;
+	margin-top: %;
+	float: right;
+}
+
+.iii {
+	margin-top: 37.2%;
+}
+
